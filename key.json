@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "certmanager-382913",
+  "private_key_id": "8244815c8b5f008e8dff2b1095f064c51f3ce703",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDA52f3fGEL2anN\n6BKdDxm/RGUFqPYj4u2VHLjA20kb5d4WkM1YNTCqkQlWg0bjx9l1WcxaXaPYDDr0\nyAuyerycrdQfM31oJznMyndlrFeQT3svEwbGx1FjBf00dZXuTZeobKDHKWnNcKeT\nQoZ1+09SjMhIIx+DJ3T5qLS13iXbMcCZsq4sDdYiMItAtoA9aucpUFTWeQXO16PH\nTDrn73zxDaa8dntYzqY8zgBUt7EhBz2rtlZNpszbkEIGegw2beHY2whNRJQwXstO\nmfM+68LczzWTZOmx8adqWjwQQ9psIvnoN6KOsFx4WugQZGrRwiwTAj1RI1gcbj+3\n6XfvZJ6ZAgMBAAECggEAAb6tNFDurwH87KkGXDlqAsBpDnCT2XPSho7pg4cPWwjr\nhw33MKLZRS8rtstmWoTsPN5IoYy6jvg5uI0bcn87ukVoWmDSSR0e09vMMIu255nz\njekR88wX8SHYSEHLBXdjl/GLXtwseH7qvnMEB7CzzR0UrLlA1CasidkoeoyvyRoQ\no12RDfSK+d3IB+ok/0EVhnthZJucPkNPp2N6g5IvnEeYW9NcTn0pgMj8NwftcBfS\nkNkUWX3c38HunTT2+LL8cYOpl2uM+aVKmi1gobK7zS5BTOJUwIBgcQU/VhL5e+UZ\nFfg6iMU3Uiwmvpn2c4X1+q5qUKlbjy36g9lWdEwy/QKBgQD6TxBCLOUdlhFfPGae\nJm01QzXPnka/wocK4lAfP5Q3ZpA0+fOKsGUv37RURGXAeGbykbFCN9ursi464C1S\ngUNdMUAQQLqYuYDtbeETS7hAX74KhVtaxVbglpKZHgH7cAs1yz4P+1h3OeY5UxE/\nZ0YjtVkzL07zCcVbEf4a5eJUFQKBgQDFSjbR2Y+zZneIBaC5B/Dcw6XJ6PgMj8za\nOAAWveg3CV0SO763IDG1Rx/i1K6efyzd2hHu0pd/GlPeNwpIO+6j5niSDgVmJgOX\nWsA6GYjr/a82aC/e9lqTCmiGjoYWajms3hqKQTTFg7eOdgC0tX5tQ2ocGuSwp+80\nvIDrWhqtdQKBgEg+N4AR+xKd9GebRDbS+mQMAOTqVpsT5uvyQ5OxQvL2bBqOJYda\nv+mgVCiaERAK8BOEjzeAbatRYtxlRU9xtWKZS1clh3V63MYqF3L9QLF7sJrSwHoj\nSJ7LdoYwzfum6+Vbwo7USUUn9dWHrwuwn+LAfX0zY0LsCATv3Xof7UG9AoGAZHAH\nwIWV1qsPpzvWOtyEDp+7wzLLNPnwPBfOU8WSdpJZw3KPAQNuyu7OmNfVnfL4kGj4\nQDEN1zM8ByDWJzf7oY0vTIu+y+YGZgNZYTqmrh2UGYqo9EVOjxT5aacdNEQX4J2h\nvUi86ODJjckdSuIq3s03M9+tFRIpgRuGNkrE0hECgYAg0pTmwZmdP7MPi+3XeVSu\nax/5ITB0xYk1Q5kh0tVMadSbCjMnzPGU6MltaFbSKrDeiVD7x4lTi2OsnQLHVtdH\n3RIaSGV3wmUPvSPwPN7j7XLQ5ncAhsjNMlCyX8uxvELDgVVkA48fXS53WSJHQAU7\nw9hAIJ2soRPGYoOS9Y/jOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "certalertservice@certmanager-382913.iam.gserviceaccount.com",
+  "client_id": "105649273187607448438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/certalertservice%40certmanager-382913.iam.gserviceaccount.com"
+}
